@@ -1,0 +1,3 @@
+character.png from https://lucide.dev/
+home.png, bolt.png, discord.png and star.png from delta
+icon.png from oneshot
