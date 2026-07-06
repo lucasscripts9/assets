@@ -1,1 +1,3 @@
-yeah i know most of the sounds here is from oneshot
+do i need a read me?
+
+i guess so
