@@ -1,3 +1,3 @@
-do i need a read me?
-
-i guess so
+Hi welcome to this readme i guess
+in here theres uh assets
+and thats it bye
